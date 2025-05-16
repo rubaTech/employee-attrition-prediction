@@ -22,5 +22,6 @@ This project applies multiple machine learning models to predict employee attrit
 - Data split: 80% training / 20% testing
 - Results visualized using confusion matrices and bar plots
 
-##Repository Structure
+## 👩‍💻 Author
+Ruba Aloufi 
 
